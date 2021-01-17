@@ -9,7 +9,6 @@ O objetivo do projeto foi aplicar uma rede neural para adivinhar o número desen
 - Keras/Tensorflow
 - PIL
 - Numpy
-- Tkinter
 
 ## Resultados
 A rede neural apresenta precisão de 90% com o dataset MNIST e acerta boa parte dos números desenhados com clareza. Desvios pequenos do padrão ao qual a rede neural está acostumada causam erros. O programa tem uma dificuldade particular em adivinhar o número 9.
